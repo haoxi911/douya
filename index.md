@@ -1,71 +1,57 @@
 ---
-layout: page
-title: 豆芽：豆瓣的体验升级
-tagline: 帮助您轻松发现感兴趣的话题，找到更多有趣有爱的灵魂。
+layout: default
 ---
+# [](#header-1)豆芽是什么？
+> 豆芽是一款为专门为豆瓣设计的浏览器扩展程序，它的目标是让大家更加安全、优雅、愉快的浏览豆瓣。目前，我们已经针对 **豆瓣小组** 做了以下改进，欢迎使用：
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+* 用户无需翻页浏览，向下滚动页面即可加载更多话题
+* 屏蔽侧边栏广告，显示话题作者以及性别等更多信息
+* 自动标签，识别新注册用户、黑名单用户等
+* 支持按照作者性别对话题进行过滤（只看男生，只看女生）
+* 支持按照标签对话题进行过滤（不看黑名单用户发的帖子）
 
-For me, the painful aspects of making a website are
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+# [](#header-1)安装说明
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
+> 豆芽目前仅提供对 **谷歌浏览器** 和 **360浏览器** 的支持，请您在安装前留意自己的浏览器版本。
 
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
+## [](#header-2)谷歌浏览器
+由于一些政策原因，我们在国内无法访问谷歌浏览器的官方应用商店，但是没有关系，我们可以通过下面简单的几步来手动安装！
 
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
+1、点击 [这里](https://github.com/haoxi911/douya/raw/master/release/douya_v1.2.crx) 下载豆芽的最新版安装包。
 
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
+2、点击浏览器右上角灰色按钮，选择更多工具，选择扩展程序。
 
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
+![](assets/img/step1.png){:height="50%" width="50%"}
 
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
+3、选择屏幕左下方的安装包，拖到屏幕空白页，拖放以安装。
 
----
+![](assets/img/step2.png){:height="80%" width="80%"}
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
+4、点击“添加”完成安装。
 
-Also see my [tutorials](http://kbroman.org/pages/tutorials) on
-[git/github](http://kbroman.org/github_tutorial),
-[GNU make](http://kbroman.org/minimal_make),
-[knitr](http://kbroman.org/knitr_knutshell),
-[R packages](http://kbroman.org/pkg_primer),
-[data organization](http://kbroman.org/dataorg),
-and [reproducible research](http://kbroman.org/steps2rr).
+![](assets/img/step3.png){:height="80%" width="80%"}
+
+## [](#header-2)360安全浏览器
+
+360安全浏览器的安装比较简单，只需使用360浏览器访问本网页，点击 [这里](https://github.com/haoxi911/douya/raw/master/release/douya_v1.2.crx) 即可，浏览器会自动安装最新版的豆芽。
+
+好了，安装成功！登陆你的豆瓣，打开 [豆瓣小组](https://www.douban.com/group/) 试试看吧！
+
+
+
+# [](#header-1)小组设置
+
+> 豆芽针对豆瓣小组提供了一些设置选项，您可以登陆到您的豆瓣帐号，在“帐号管理”里面选择“小组设置”页面，即可看到如下页面：
+
+![](assets/img/settings.png){:height="80%" width="80%"}
+
+更改选项后，别忘了保存设置。新的设置会在刷新页面后生效！
+
+
+
+# [](#header-1)隐私声明
+豆芽不会收集您的隐私数据，您只需确保通过访问本 [网址](https://haoxi911.github.io/douya/) 下载原版软件，即可以放心使用。
+
+如果您有任何问题可以发 [豆油](https://www.douban.com/doumail/write?to=101845695) 给我，或者在项目的 [问题](https://github.com/haoxi911/douya/issues) 页面留言。
