@@ -9,6 +9,7 @@ layout: default
 * 自动标签，识别新注册用户、黑名单用户等
 * 支持按照作者性别对话题进行过滤（只看男生，只看女生）
 * 支持按照标签对话题进行过滤（不看黑名单用户发的帖子）
+* 支持按照内容对话题进行过滤（只看带图片带帖子）
 
 
 
@@ -19,7 +20,7 @@ layout: default
 ## [](#header-2)谷歌浏览器
 由于一些政策原因，我们在国内无法访问谷歌浏览器的官方应用商店，但是没有关系，我们可以通过下面简单的几步来手动安装！
 
-1、点击 [这里](https://github.com/haoxi911/douya/raw/master/release/douya_v1.2.crx) 下载豆芽的最新版安装包。
+1、点击 [这里](https://github.com/haoxi911/douya/raw/master/release/douya_v1.3.crx) 下载豆芽的最新版安装包。
 
 2、点击浏览器右上角灰色按钮，选择更多工具，选择扩展程序。
 
@@ -35,7 +36,7 @@ layout: default
 
 ## [](#header-2)360安全浏览器
 
-360安全浏览器的安装比较简单，只需使用360浏览器访问本网页，点击 [这里](https://github.com/haoxi911/douya/raw/master/release/douya_v1.2.crx) 即可，浏览器会自动安装最新版的豆芽。
+360安全浏览器的安装比较简单，只需使用360浏览器访问本网页，点击 [这里](https://github.com/haoxi911/douya/raw/master/release/douya_v1.3.crx) 即可，浏览器会自动安装最新版的豆芽。
 
 好了，安装成功！登陆你的豆瓣，打开 [豆瓣小组](https://www.douban.com/group/) 试试看吧！
 
