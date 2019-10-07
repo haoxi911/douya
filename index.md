@@ -20,7 +20,7 @@ layout: default
 ## [](#header-2)谷歌浏览器
 由于一些政策原因，我们在国内无法访问谷歌浏览器的官方应用商店，但是没有关系，我们可以通过下面简单的几步来手动安装！
 
-1、点击 [这里](https://github.com/haoxi911/douya/raw/master/release/douya_v1.5.crx) 下载豆芽的最新版安装包。
+1、点击 [这里](https://github.com/haoxi911/douya/raw/master/release/douya_v1.6.crx) 下载豆芽的最新版安装包。
 
 2、点击浏览器右上角灰色按钮，选择更多工具，选择扩展程序。
 
