@@ -11,6 +11,8 @@ layout: default
 * 支持按照标签对话题进行过滤（不看黑名单用户的帖子）
 * 支持按照内容对话题进行过滤（只看带图片的帖子）
 
+![](assets/usage/overview.gif){:height="80%" width="80%"}
+
 
 
 # [](#header-1)安装说明
@@ -62,7 +64,7 @@ layout: default
 
 > 豆芽针对豆瓣小组提供了一些设置选项，您可以在登陆豆瓣小组后，在“帐号管理”里面下选择“小组设置”：
 
-![](assets/img/settings.png){:height="80%" width="80%"}
+![](assets/usage/settings.png){:height="80%" width="80%"}
 
 更改选项后，别忘了点击“更新设置”。新的设置会在页面刷新后生效！
 
