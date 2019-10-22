@@ -46,7 +46,7 @@ layout: default
 
 1、打开谷歌浏览器，点击 [**这里**](https://github.com/haoxi911/douya/raw/master/release/douya_v2.0.crx) 下载本程序。
 
-2、点击 [**这里**](chrome://extensions) 打开应用管理器。
+2、点击浏览器右上角灰色按钮，选择更多工具，选择扩展程序。
 
 3、启动开发者模式，并刷新当前页面（**重要**）。
 
