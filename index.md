@@ -24,7 +24,7 @@ layout: default
 
 2、点击“立即安装”，待系统显示“已安装”，点击豆芽图标，开始使用。
 
-![](assets/install/qq-browser.gif){:height="50%" width="50%"}
+![](assets/install/qq-browser.gif){:height="80%" width="80%"}
 
 
 ## [](#header-2)360浏览器
@@ -35,7 +35,7 @@ layout: default
 
 3、点击豆芽图标，开始使用。
 
-![](assets/install/360-browser.gif){:height="50%" width="50%"}
+![](assets/install/360-browser.gif){:height="80%" width="80%"}
 
 
 ## [](#header-2)谷歌浏览器
@@ -50,7 +50,7 @@ layout: default
 
 5、点击豆芽图标，开始使用。
 
-![](assets/install/chrome-browser.gif){:height="50%" width="50%"}
+![](assets/install/chrome-browser.gif){:height="80%" width="80%"}
 
 > 熟悉科学上网的同学，也可以点击 [**这里**](https://chrome.google.com/webstore/detail/okbegmdpgiceefipdjigeebadkehcpil) 进入谷歌浏览器的应用商店进行安装。
 
