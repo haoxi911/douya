@@ -24,7 +24,7 @@ github_username:  haoxi911
 # Build settings
 markdown: kramdown
 repository: haoxi911/douya
-theme: jekyll-theme-dinky
+theme: jekyll-theme-architect
 gems:
   - jekyll-feed
 exclude:
