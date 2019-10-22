@@ -11,7 +11,7 @@ layout: default
 * 支持按照标签对话题进行过滤（不看黑名单用户的帖子）
 * 支持按照内容对话题进行过滤（只看带图片的帖子）
 
-![](assets/usage/overview.gif){:height="80%" width="80%"}
+![](assets/usage/overview.gif)
 
 
 
@@ -28,7 +28,7 @@ layout: default
 
 2、点击“立即安装”，待系统显示“已安装”，点击豆芽图标，开始使用。
 
-![](assets/install/qq-browser.gif){:height="80%" width="80%"}
+![](assets/install/qq-browser.gif)
 
 
 ## [](#header-2)360浏览器
@@ -39,7 +39,7 @@ layout: default
 
 3、点击豆芽图标，开始使用。
 
-![](assets/install/360-browser.gif){:height="80%" width="80%"}
+![](assets/install/360-browser.gif)
 
 
 ## [](#header-2)谷歌浏览器
@@ -54,7 +54,7 @@ layout: default
 
 5、点击豆芽图标，开始使用。
 
-![](assets/install/chrome-browser.gif){:height="80%" width="80%"}
+![](assets/install/chrome-browser.gif)
 
 > 熟悉科学上网的同学，也可以点击 [**这里**](https://chrome.google.com/webstore/detail/okbegmdpgiceefipdjigeebadkehcpil) 进入谷歌浏览器的应用商店进行安装。
 
@@ -64,7 +64,7 @@ layout: default
 
 > 豆芽针对豆瓣小组提供了一些设置选项，您可以在登陆豆瓣小组后，在“帐号管理”里面下选择“小组设置”：
 
-![](assets/usage/settings.png){:height="80%" width="80%"}
+![](assets/usage/settings.png)
 
 更改选项后，别忘了点击“更新设置”。新的设置会在页面刷新后生效！
 
